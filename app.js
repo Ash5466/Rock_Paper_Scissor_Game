@@ -82,3 +82,4 @@ document.querySelector("#reset").addEventListener("click", () => {
     msg.style.backgroundColor = "#081b31";
 });
 
+console.log("test")
